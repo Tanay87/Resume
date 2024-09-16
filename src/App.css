@@ -1,0 +1,98 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #012f60;
+}
+.title{
+  color:#e7cc00;
+  font-family: Serif;
+  text-shadow: 1px 1px 20px rgb(0, 4, 31);
+}
+.subtitle{
+  color:#e7cc00;
+  font-family: Serif;
+  text-shadow: 1px 1px 20px rgb(0, 4, 31);
+}
+.about{
+  color:#e7cc00;
+  font-family: Serif;
+  text-shadow: 10px 10px 20px rgb(0, 4, 31);
+}
+.details{
+  color:#e7cc00;
+  font-family: Serif;
+  text-shadow: 10px 10px 20px rgb(0, 4, 31);
+}
+.logo{
+ background-image: #e7cc00;
+}
+.fullpage2{
+  margin-top: 100px;
+  border:solid 1px #e7cc00;
+}
+ul{
+ display: flex;
+ text-align: center;
+ margin: 0px auto;
+ justify-content: center; 
+  align-items: center;
+}
+li{
+  list-style: none;
+  display: flex;
+  background-color: #e7cc00;
+  color: #012f60;
+  margin-right: 100px;
+  margin-top: 100px;
+  max-width: 200px;
+  max-height: 200px;
+  min-width: 200px;
+  min-height: 200px;
+  text-align: center;
+  justify-content: center; 
+  align-items: center;
+  font-size: 40px;
+  font-family: serif;
+  box-shadow: 1px 1px 20px rgb(0, 4, 31);
+}
+.button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2f9090;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #012f60;
+  transition: background-color 0.3s ease;
+}
+
+.button {
+  background-color: #0074d9;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #39cccc;
+}
+.button:active {
+  background-color:  #012f60; /* یا رنگ اولیه دلخواه */
+}

@@ -1,0 +1,15 @@
+{"title":"Hello I'm Tanay",
+"subtitle":"programmer",
+         
+"links":{
+          "instagram": "https://www.instagram.com/tanay87_m?utm_source=qr&igsh=Y3Q3YW5pa2dlZXhz",
+          "email" : "Tanay87.m@gmail.com",
+          "github":"https://github.com/Tanay87?tab=stars"
+         
+
+},
+"Detail":[{"about":"About"},
+
+        {  "details":"I have started learning programming while i was 13 years old by python. next year i decided to be full steck developer so I started to learn django , html , css , react , git ,photoshop , ilustrator and another usefull things"
+}],
+"skills":[{"Python":"python"},{"javascript":"java script"},{"htmlcss":"html & css"},{"git":"git"},{"c":"c++"},{"phil":"photoshop & iluustrator"}]}
